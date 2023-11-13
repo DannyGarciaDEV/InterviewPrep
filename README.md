@@ -18,7 +18,7 @@ In this repository, you'll find a comprehensive collection of coding challenges 
 Our algorithm-focused course is a treasure trove of free programming exercises. These challenges immerse you in the world of common algorithms frequently encountered in real-life coding scenarios. For each algorithm, we provide clear and concise explanations, enabling you to understand how they work and equipping you to develop effective solutions.
 
 The list of algorithms includes:
-- [Find the Symmetric Difference](Find/the/Symmetric/Difference)
+- [Find the Symmetric Difference.js](https://github.com/DannyGarciaDEV/InterviewPrep/blob/main/algorithms/Find%20the%20Symmetric%20Difference.js)
 - Inventory Update
 - No Repeats Please
 - Pairwise
